@@ -23,4 +23,4 @@
 
 ### Continuous Profiler
 
-- [Troubleshooting .NET performance issues with Datadog](https://chnasarre.medium.com/troubleshooting-net-performance-issues-with-datadog-toolbox-3b9919792344) - Use Datadog's distributed tracing, runtime metrics, and Continuous Profiler to troubleshoot performanc issues
+- [Troubleshooting .NET performance issues with Datadog](https://chnasarre.medium.com/troubleshooting-net-performance-issues-with-datadog-toolbox-3b9919792344) - Use Datadog's distributed tracing, runtime metrics, and Continuous Profiler to troubleshoot performance issues
