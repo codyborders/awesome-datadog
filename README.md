@@ -14,6 +14,8 @@
 
 - [Dogmover](https://github.com/DataDog/Miscellany/tree/master/Dogmover) - Migrate Datadog resources from one organization to another
 - [Datadog Backup](https://github.com/scribd/datadog_backup) - Back up dashboards and monitors on a regular schedule
+- [datadog-sync-cli](https://github.com/DataDog/datadog-sync-cli) - CLI tool to sync Datadog resources across organizations
+- [Terraformer provider for Datadog](https://github.com/GoogleCloudPlatform/terraformer/blob/master/docs/datadog.md) - Import Datadog resources into Terraform as state or HCL configuration
 
 ## Dashboards
 
